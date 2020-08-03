@@ -12,3 +12,5 @@ Data set for Fruit Recognition may be download from here https://drive.google.co
 ### No. of classess, No. of Train, Val, Test images, Layers and parameters
 ![](img/layers.png)
 ### Acuracy and Loss 
+![](img/acc loss.png)
+
